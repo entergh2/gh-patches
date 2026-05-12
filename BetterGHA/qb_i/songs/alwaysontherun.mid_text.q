@@ -1,0 +1,8 @@
+alwaysontherun_markers_text_603d2951 = "Passaggio 1"
+alwaysontherun_markers_text_c85c2953 = "Ritornello 1"
+alwaysontherun_markers_text_f93478eb = "Passaggio 2"
+alwaysontherun_markers_text_515578e9 = "Ritornello 2"
+alwaysontherun_markers_text_fa6efd74 = "Corry Slash, corri!"
+alwaysontherun_markers_text_8e33487d = "Passaggio 3"
+alwaysontherun_markers_text_2652487f = "Ritornello 3"
+alwaysontherun_markers_text_1057ddde = "Passaggio 4"

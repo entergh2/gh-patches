@@ -1,0 +1,8 @@
+alwaysontherun_markers_text_603d2951 = "Run 1"
+alwaysontherun_markers_text_c85c2953 = "Refrain 1"
+alwaysontherun_markers_text_f93478eb = "Run 2"
+alwaysontherun_markers_text_515578e9 = "Refrain 2"
+alwaysontherun_markers_text_fa6efd74 = "Cavale Slash !"
+alwaysontherun_markers_text_8e33487d = "Run 3"
+alwaysontherun_markers_text_2652487f = "Refrain 3"
+alwaysontherun_markers_text_1057ddde = "Run 4"

@@ -1,0 +1,8 @@
+pink_markers_text_e5fa3adf = "INTRO"
+pink_markers_text_c5cccaf7 = "Strofa 1"
+pink_markers_text_c85c2953 = "Ritornello 1"
+pink_markers_text_5cc59b4d = "Strofa 2"
+pink_markers_text_515578e9 = "Ritornello 2"
+pink_markers_text_f0fffbee = "Assolo"
+pink_markers_text_2bc2abdb = "Strofa 3"
+pink_markers_text_c38338da = "Ritornello 3 / Finale"

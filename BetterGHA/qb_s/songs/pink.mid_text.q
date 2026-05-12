@@ -1,0 +1,8 @@
+pink_markers_text_e5fa3adf = "INTRODUCCIÓN"
+pink_markers_text_c5cccaf7 = "Estrofa 1"
+pink_markers_text_c85c2953 = "Estribillo 1"
+pink_markers_text_5cc59b4d = "Estrofa 2"
+pink_markers_text_515578e9 = "Estribillo 2"
+pink_markers_text_f0fffbee = "Solo"
+pink_markers_text_2bc2abdb = "Estrofa 3"
+pink_markers_text_c38338da = "Estribillo 3"
