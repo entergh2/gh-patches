@@ -107,7 +107,21 @@ guitar_hero_cheats = [
 		name_text = $cheats_unlocked_all_songs
 		var = Cheat_UnlockAll
 		unlock_pattern = [
-			69888
+			4352
+			69632
+			69632
+			4352
+			4352
+			69632
+			4352
+			4352
+			69632
+			69632
+			4352
+			4352
+			69632
+			4352
+			4112
 		]
 	}
 	{
